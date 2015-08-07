@@ -1,4 +1,4 @@
-# Algorithms repository
+# Algorithms
 This repository contains some of algorithmic tasks & puzzles solved by me.
 
 ### What is SPOJ?
