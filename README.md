@@ -8,10 +8,10 @@ This repository contains some of algorithmic tasks & puzzles solved by me.
 > CodinGame is a gamified programming platform where software developers compete together to learn, improve their craft and discover great job opportunities through fun online programming challenges:
 
 * singleplayer mode
-	* brings you the challenges at many difficulty levels: easy, medium, hard, very hard, optimization
+	* brings you the challenges at many difficulty levels (easy - very hard, optimization)
 
 * multiplayer games and contests
-	* beside new experience will also bring you a lot of fun, because you have to beat not only AI, but other players.
+	* beside new experience will also bring you a lot of fun (defeat other players, not only AI)
 
 ##### Solutions
 
