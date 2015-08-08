@@ -5,7 +5,7 @@ This repository contains some of algorithmic tasks & puzzles solved by me.
 > SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it.
 
 ##### What is CodinGame?
-> CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through fun online programming challenges:
+> CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through online programming challenges:
 >
 >* singleplayer mode
 >	* brings you the challenges at many difficulty levels (easy - very hard, optimization)
