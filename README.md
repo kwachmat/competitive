@@ -1,5 +1,7 @@
 ## algorithms
 
+Implementations of common algorithms, data structures and tasks solutions. 
+
 My *Algorithms* repository is a place for algorithmic tasks and puzzles solved by me. Most of the time I solve at least one task per day if I've got enough time for that. Full list of already beaten tasks can be found here:
 [pl.spoj.com/users/kwachmat](http://pl.spoj.com/users/kwachmat) (I prefer SPOJ over CodinGame at the moment).
 
