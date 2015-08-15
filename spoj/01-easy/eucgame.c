@@ -9,6 +9,8 @@ int main(int argc, char *argv[])
     {
         scanf("%d %d", &playerA, &playerB);
 
+        if(playerA == 1 || playerB == 1) playerA = playerB = 1;
+        
         while(playerA != playerB)
         {
             if(playerA < playerB) playerB -= playerA;
