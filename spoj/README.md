@@ -8,4 +8,4 @@ Difficulty level: *easy problems*
 
 [**02-srednie [polish]**](http://pl.spoj.com/problems/srednie)  
 Source: *pl.spoj.com*  
-Difficulty level: *medium tasks*
+Difficulty level: *medium problem*
