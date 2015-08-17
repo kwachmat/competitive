@@ -1,14 +1,11 @@
-[**00-classical**](http://www.spoj.com/problems/classical/)  
-Language: *en*  
-Source: *spoj.com*  
-Difficulty level: *various (classical problems)*
+#### What is SPOJ?
+> SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it.
 
-[**01-latwe**](http://pl.spoj.com/problems/latwe)  
-Language: *pl*  
-Source: *pl.spoj.com*  
-Difficulty level: *easy problems*
+#### Directory content
+Here is an explanation of what you can find in each [*algorithms/spoj*](https://github.com/kwachmat/algorithms/tree/master/spoj) folder:
 
-[**02-srednie**](http://pl.spoj.com/problems/srednie)  
-Language: *pl*  
-Source: *pl.spoj.com*  
-Difficulty level: *medium problems*
+| |Folder name   	|Source   	|Difficulty level   	|Language   	|
+|:-:	|:-:	|:-:	|:-:	|---	|
+|#1 |00-classical   	| [spoj.com/problems/classical](http://www.spoj.com/problems/classical/)     	|-   	|en   	|
+|#2 |01-latwe   	|[pl.spoj.com/problems/latwe](http://pl.spoj.com/problems/latwe)   	|easy   	|pl   	|
+|#3 |02-srednie   	|[pl.spoj.com/problems/medium](http://pl.spoj.com/problems/srednie)   	|medium   	|pl   	|
