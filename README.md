@@ -1,6 +1,6 @@
 ## algorithms
 
-Some of my solutions to algorithmic tasks and problems, that I was trying to beat during various contests.
+Some of my solutions to algorithmic tasks & problems, that I was trying to beat during various contests.
 
 ##### What is CodinGame?
 My profile: *https://www.codingame.com/profile/6972f3f6458f1e2b7f2f80df91bbf167251148*
