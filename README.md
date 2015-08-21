@@ -1,6 +1,6 @@
 ## algorithms 
 
-This repository contains some of my solutions to algorithmic tasks and problems that I was hardly trying to beat during various (both offline and online) programming contests. You can read a few sentences about all of these:
+This repository contains some of my solutions to algorithmic tasks and problems that I was trying to beat during various (both offline and online) programming contests. You can read a few sentences about all of these:
 
 ---
 
