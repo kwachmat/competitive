@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 
+typedef std::vector<int>::iterator vec_it;
+
 struct Vertex { 
     bool visited;
     std::vector<int> adj;
@@ -11,9 +13,8 @@ void DFS(int u, Vertex *graph)
 {
     printf("%d ", u);
     graph[u].visited = true;
-    std::vector<int>::iterator it;
     
-    for(it=graph[u].adj.begin(); it!=graph[u].adj.end(); it++)
+    for(vec_it it=graph[u].adj.begin(); it!=graph[u].adj.end(); it++)
     {
         if(!graph[*it].visited) DFS(*it, graph);
     }
@@ -31,8 +32,8 @@ void BFS(int u, Vertex *graph)
         graph[v].visited = true;
         printf("%d ", v);
         
-        std::vector<int>::iterator it;
-        for(it=graph[v].adj.begin(); it!=graph[v].adj.end(); it++)
+        
+        for(vec_it it=graph[v].adj.begin(); it!=graph[v].adj.end(); it++)
         {
             if(!graph[*it].visited)
             {
