@@ -5,7 +5,6 @@ This repository contains some of my solutions to algorithmic tasks and problems 
 ---
 
 ##### CodinGame  
-###### online problemset archive
 > CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through online programming challenges.
 
 ---
