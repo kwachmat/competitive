@@ -11,4 +11,4 @@ This repository contains some of my solutions to algorithmic tasks and problems 
 ##### Sphere Online Judge  
 > SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it.
 
-Each directory is additionally sorted either by difficulty level of problems or by date (edition/year/stage) of contest.
+Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.
