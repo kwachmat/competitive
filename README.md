@@ -5,10 +5,6 @@ If you find a contest listed below, that is not visible in repository tree, it c
 
 ### List of directories
 
-###### AMPPZ
-http://amppz.mimuw.edu.pl/  
-
----
 ###### CodinGame
 http://www.codingame.com  
 CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through online programming challenges.
@@ -28,8 +24,13 @@ Marathon24 is one of the European largest and most prestigious team programming 
 The competition consists of two stages. In the online qualifying round all the registered teams of three solve the problems to find themselves among 30 who will be invited to the second stage. The Grand Final lasts continuously for 24 hours and the teams compete against one another to win the main prize. 
 
 ---
+###### MWPZ
+http://mwpz.poznan.pl/
+
+---
 ###### Sphere Online Judge
 http://www.spoj.com  
 SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it. Problems that can be found in this directory are both from [polish](http://www.pl.spoj.com) and [english](http://www.spoj.com) SPOJ.
 
 ### License
+The MIT License (MIT)
