@@ -1,11 +1,10 @@
 # Contests  
-Code snippets and solutions to algorithmic tasks from on/offline programming contests.  
+Code snippets from various on/offline programming contests and online judge systems. 
 Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.
 
 ### List of contests
 
----
-##### AMPPZ
+###### AMPPZ
 http://amppz.mimuw.edu.pl/  
 
 ---
