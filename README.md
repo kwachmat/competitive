@@ -14,8 +14,6 @@ CodinGame is a gamified programming platform. Software developers compete togeth
 http://www.deadline24.pl  
 Deadline24 is an international team programming marathon, organized by Future Processing since 2009. During the Contest, the teams of three will be tackling algorithmic problems. Fans of computer science will have a chance to demonstrate their knowledge, skills, creativity and perseverance while working on the Contest tasks for 24 clock hours.
 
-The plot of the Contest tasks, based on the adventures of beetlejumpers, is not the only distinguishing feature of Deadline24. It is also about the venues where it is organized, always closely related to the tradition of the Silesia Province.
-
 ---
 ###### Marathon24
 http://marathon24.com/  
