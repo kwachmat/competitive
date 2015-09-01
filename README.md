@@ -1,6 +1,7 @@
 # Contests  
 Code snippets from various on/offline programming contests and online judge systems.  
 Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.
+If you find a contest listed below, which is not visible in repository tree, it currently has no code snippets from this contest to be shown.
 
 ### List of directories
 
@@ -15,6 +16,9 @@ CodinGame is a gamified programming platform. Software developers compete togeth
 ---
 ###### Deadline24
 http://www.deadline24.pl  
+Deadline24 is an international team programming marathon, organized by Future Processing since 2009. During the Contest, the teams of three will be tackling algorithmic problems. Fans of computer science will have a chance to demonstrate their knowledge, skills, creativity and perseverance while working on the Contest tasks for 24 clock hours.
+
+The plot of the Contest tasks, based on the adventures of beetlejumpers, is not the only distinguishing feature of Deadline24. It is also about the venues where it is organized, always closely related to the tradition of the Silesia Province.
 
 ---
 ###### Marathon24
