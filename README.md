@@ -17,7 +17,7 @@ Deadline24 is an international team programming marathon, organized by Future Pr
 ---
 ###### Marathon24
 http://marathon24.com/  
-Marathon24 is one of the European largest and most prestigious team programming contests attracting top coders from all around the world. An open formula of the contest allows all the programmers to join and compete against one another regardless of their age, educational background or professional experience.
+Marathon24 is one of the European largest and most prestigious team programming contests attracting top coders from all around the world. The contest due to its formula is open for all programmers.
 
 The competition consists of two stages. In the online qualifying round all the registered teams of three solve the problems to find themselves among 30 who will be invited to the second stage. The Grand Final lasts continuously for 24 hours and the teams compete against one another to win the main prize. 
 
