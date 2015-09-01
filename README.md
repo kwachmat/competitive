@@ -1,7 +1,7 @@
 # Contests  
 Code snippets from various on/offline programming contests and online judge systems.  
 Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.  
-If you find a contest listed below, which is not visible in repository tree, it currently has no code snippets from this contest to be shown.
+If you find a contest listed below, which is not visible in repository tree, it currently has no code snippets.
 
 ### List of directories
 
@@ -31,3 +31,5 @@ The competition consists of two stages. In the online qualifying round all the r
 ###### Sphere Online Judge
 http://www.spoj.com  
 SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it. Problems that can be found in this directory are both from [polish](http://www.pl.spoj.com) and [english](http://www.spoj.com) SPOJ.
+
+### License
