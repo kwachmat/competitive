@@ -4,9 +4,18 @@ Each directory is sorted either by difficulty level of problems or by date (edit
 
 ### List of contests
 
+##### AMPPZ
+http://amppz.mimuw.edu.pl/  
+
 ##### CodinGame
-http://www.codingame.com
+http://www.codingame.com  
 CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through online programming challenges.
+
+##### Deadline24
+http://www.deadline24.pl  
+
+##### Marathon24
+http://marathon24.com/  
 
 ##### Sphere Online Judge
 http://www.spoj.com  
