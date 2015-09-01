@@ -1,5 +1,5 @@
 # Contests  
-Code snippets from various on/offline programming contests and online judge systems. 
+Code snippets from various on/offline programming contests and online judge systems.  
 Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.
 
 ### List of directories
