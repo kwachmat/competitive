@@ -1,7 +1,7 @@
 # Contests  
 Code snippets from various on/offline programming contests and online judge systems.  
 Each directory is sorted either by difficulty level of problems or by date (edition/year/stage) of contest.  
-If you find a contest listed below, which is not visible in repository tree, it currently has no code snippets.
+If you find a contest listed below, that is not visible in repository tree, it currently has no code snippets.
 
 ### List of directories
 
