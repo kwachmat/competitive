@@ -23,7 +23,7 @@ void runDijkstra(vector<Edge> adj[], int dist[], int V, int s)
         {
             if(dist[u] + neighbour.weight < dist[neighbour.index]) // relax
             {
-                Q.push(neighbour); // visit him in next run
+                Q.push(neighbour); // visit him later
                 dist[neighbour.index] = dist[u] + neighbour.weight;
             }
         }
@@ -58,7 +58,7 @@ int main()
         runDijkstra(adj, dist, V, source);
 
         if(dist[target] != INF) printf("%d\n", dist[target]);
-        else printf( "NO\n" );
+        else printf("NO\n");
 
         delete [] dist;
     }
