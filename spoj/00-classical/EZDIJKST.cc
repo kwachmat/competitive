@@ -8,7 +8,7 @@ struct Edge {
 };
 
 // ------------------------ DIJKSTRA ---------------------------------
-void runDijkstra(vector<Edge> adj[], int dist[], int V, int s)
+void runDijkstra(vector<Edge> adj[], vector<int> &dist, int V, int s)
 {
     dist[s] = 0;
     priority_queue<Edge> Q;
@@ -41,7 +41,7 @@ int main()
     {
         scanf("%d %d", &V, &E);
         vector<Edge> adj[V+1];
-        int *dist = new int[V+1];
+        vector<int> dist (V+1, INF);
 
         for(int i=0; i<E; i++)
         { // read edges
@@ -50,17 +50,12 @@ int main()
             adj[a].push_back(Edge(b, c));
         }
 
-        // clear distance array
-        for(int i=0; i<=V; ++i) { dist[i] = INF; }
-
         // run dijkstra
         scanf("%d %d", &source, &target);
         runDijkstra(adj, dist, V, source);
 
         if(dist[target] != INF) printf("%d\n", dist[target]);
         else printf("NO\n");
-
-        delete [] dist;
     }
     
 	return 0;
