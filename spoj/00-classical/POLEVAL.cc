@@ -11,9 +11,10 @@ long long horner(int n, int c[], int x)
 
 int main()
 {
-    unsigned k, cases = 0;
     int n, x, coe[1001];
+    unsigned k, cases = 0;
     
+    cin.tie(NULL);
     ios_base::sync_with_stdio(0);
     
     // polynomial
