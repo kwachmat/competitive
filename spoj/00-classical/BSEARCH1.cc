@@ -22,7 +22,7 @@ int bsearch(int arr[], int val, int low, int high)
 
 int main()
 {
-    int n, q, x, array[1000000];
+    int n, q, x, array[100001];
 
     scanf("%d %d", &n, &q);
     for(int i=0; i<n; i++) scanf("%d", &array[i]);
