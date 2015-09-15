@@ -1,4 +1,4 @@
-#include <cstdio>
+#include <bits/stdc++.h>
 
 int bsearch(int arr[], int val, int low, int high)
 {
@@ -12,10 +12,8 @@ int bsearch(int arr[], int val, int low, int high)
         else if(val > arr[mid]) low = mid+1; // RIGHT
         else if(val == arr[mid])
         {
-            // GET THE FIRST OCCURENCE
-            while(val == arr[mid] && mid >= 0) mid--;
-            mid++;
-            return mid;
+            while(val == arr[mid] && mid >= 0) mid--; // GO TO 1ST OCCURENCE
+            return ++mid;
         }
     }
 
