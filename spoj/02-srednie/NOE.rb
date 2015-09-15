@@ -2,9 +2,10 @@
 p @x if $<.map { |num| @x = @x.to_i ^ num.to_i }
 
 # UNCOMPRESSED VERSION:
+
 =begin
-while input = $stdin.gets 
-  result = result.to_i ^ input.to_i
+while num = gets
+  x = x.to_i ^ num.to_i
 end
-puts result
+puts x
 =end
