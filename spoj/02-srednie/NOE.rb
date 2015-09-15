@@ -1,5 +1,1 @@
-while input = $stdin.gets do
-    result = result.to_i ^ input.to_i
-end
-
-puts result
+p @x if $<.map { |num| @x = @x.to_i ^ num.to_i }
