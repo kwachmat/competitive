@@ -1,0 +1,1 @@
+$<.map { |n| puts [1, 2*n.to_i-2].max }
