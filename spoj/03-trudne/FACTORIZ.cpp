@@ -12,10 +12,8 @@ int getInteger(int *x) {
 }
 
 void putInteger(int x) {
-    for(;x > 9; x = x/10) {
-        putchar_unlocked('0' + (x % 10));
-    }
-    putchar_unlocked('0' + x);
+    if (x > 9) putInteger(x / 10);
+    putchar_unlocked('0' + (x % 10));
 }
 
 int main() {
@@ -24,7 +22,7 @@ int main() {
     const int SIZE = 8000000;
     std::vector<int> fPrimeDiv(SIZE+1);
     for(int i=2; i<=SIZE; i++) fPrimeDiv[i] = i;
-    
+
     // sieve
     for(int i=2; i*i<=SIZE; i++) {
         if(fPrimeDiv[i] == i) {
@@ -33,21 +31,22 @@ int main() {
             }
         }
     }
-    
+
     // i/o
     getInteger(&t);
     while(t--)
     {
         getInteger(&n);
         if(n == 1) putchar_unlocked('1');
-        
+
         while (n != 2 && (n & 1) == 0) {
             putchar_unlocked('2');
             putchar_unlocked('*');
             n >>= 1;
         }
-        
-        while(n > 1) {
+
+        while(n > 1)
+        {
             putInteger(fPrimeDiv[n]);
             n = n / fPrimeDiv[n];
             if(n > 1) putchar_unlocked('*');
@@ -56,4 +55,4 @@ int main() {
         putchar_unlocked('\n');
     }
     return 0;
-}
+} 
