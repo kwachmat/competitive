@@ -10,9 +10,8 @@ int main() {
     int ostatni = n+1;
     scanf("%d", &min[0]); // min[0] = r[0];
 
-    //minima
-    for(int i=1; i<n; i++)
-    {
+    // min array
+    for(int i=1; i<n; i++) {
         scanf("%d", &rurka);
         min[i] = (min[i-1]<rurka ? min[i-1] : rurka);
     }
