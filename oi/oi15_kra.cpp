@@ -16,6 +16,7 @@ int main() {
         min[i] = (min[i-1]<rurka ? min[i-1] : rurka);
     }
     
+    // for each roller
     for(int j=0; j<m; j++) {
         
         int a = ostatni-1;
