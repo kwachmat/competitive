@@ -29,7 +29,7 @@ int main() {
     }
     
     // out
-   for(char c : Q) cout << c;
+    for(char c : Q) cout << c;
     cout << str;
     while(!S.empty()) { cout << getClosing(S.top()); S.pop(); }
     
