@@ -4,6 +4,7 @@
 using namespace std;
 
 inline char getOpening(char c) { return (c == ')' ? '(' : (c == ']' ? '[' : '{')); }
+inline char getClosing(char c) { return (c == '(' ? ')' : (c == '[' ? ']' : '}')); }
 
 int main() {
     
@@ -28,7 +29,7 @@ int main() {
     }
     
     // out
-    for(char c : Q) cout << c;
+   for(char c : Q) cout << c;
     cout << str;
     while(!S.empty()) { cout << getClosing(S.top()); S.pop(); }
     
