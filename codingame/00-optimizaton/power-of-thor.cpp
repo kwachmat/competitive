@@ -1,2 +1,0 @@
-#include <iostream>
-using namespace std;int main(){int m,n,a,b;cin>>m>>n>>a>>b;while(1){int e;cin>>e;if(a>m&&b>n){cout<<"NW\n";a--;b--;}if(a>m&&b==n){cout<<"W\n";a--;}if(a>m&&b<n){cout<<"SW\n";a--;b++;}if(a==m&&b>n){cout<<"N\n";b--;}if(a==m&&b<n){cout<<"S\n";b++;}if(a<m&&b>n){cout<<"NE\n";a++;b--;}if(a<m&&b==n){cout<<"E\n";a++;}if(a<m&&b<n){cout<<"SE\n";a++;b++;}}}
