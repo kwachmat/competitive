@@ -5,9 +5,14 @@ If you find a contest listed below, that is not visible in repository tree, it c
 
 ### List of directories
 
-###### CodinGame
-http://www.codingame.com  
-CodinGame is a gamified programming platform. Software developers compete together to learn, improve their craft and discover great job opportunities through online programming challenges.
+###### AMPPZ
+http://amppz.ii.uni.wroc.pl/  
+Polish Collegiate Programming Contest (AMPPZ) is the most important Polish team programming competition. At AMPPZ the standard ACM ICPC rules apply: 3-person teams of students from the same university are solving several tasks, each solution is either accepted or rejected, the number of submissions is unlimited. 
+
+---
+###### CodeForces
+http://codeforces.com/  
+Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare.
 
 ---
 ###### Deadline24
@@ -15,15 +20,9 @@ http://www.deadline24.pl
 Deadline24 is an international team programming marathon, organized by Future Processing since 2009. During the Contest, the teams of three will be tackling algorithmic problems. Fans of computer science will have a chance to demonstrate their knowledge, skills, creativity and perseverance while working on the Contest tasks for 24 clock hours.
 
 ---
-###### Marathon24
-http://marathon24.com/  
-Marathon24 is one of the European largest and most prestigious team programming contests attracting top coders from all around the world. The contest due to its formula is open for all programmers.
-
-The competition consists of two stages. In the online qualifying round all the registered teams of three solve the problems to find themselves among 30 who will be invited to the second stage. The Grand Final lasts continuously for 24 hours and the teams compete against one another to win the main prize. 
-
----
 ###### MWPZ
-http://mwpz.poznan.pl/
+http://mwpz.poznan.pl/  
+Poznan Open Team Programming Championship is an opportunity for the programmers to test their computer science team problem solving skills. The contest gives a chance to meet programmers from various regions and environments.
 
 ---
 ###### Sphere Online Judge
