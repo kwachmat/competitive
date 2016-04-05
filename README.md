@@ -7,7 +7,7 @@ If you find a contest listed below, that is not visible in repository tree, it c
 
 ###### AMPPZ
 http://amppz.ii.uni.wroc.pl/  
-Polish Collegiate Programming Contest (AMPPZ) is the most important Polish team programming competition. Usually it is held in October or November and for most of the Polish universities it is the first elimination round for the International Collegiate Programming Contest (ACM ICPC). At AMPPZ the standard ACM ICPC rules apply: 3-person teams of students from the same university are solving several tasks, each solution is either accepted or rejected, the number of submissions is unlimited. 
+Polish Collegiate Programming Contest (AMPPZ) is the most important Polish team programming competition. At AMPPZ the standard ACM ICPC rules apply: 3-person teams of students from the same university are solving several tasks, each solution is either accepted or rejected, the number of submissions is unlimited. 
 
 ---
 ###### CodeForces
