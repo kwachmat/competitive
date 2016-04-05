@@ -28,6 +28,3 @@ Poznan Open Team Programming Championship is an opportunity for the programmers 
 ###### Sphere Online Judge
 http://www.spoj.com  
 SPOJ (Sphere Online Judge) is a problemset archive, online judge and contest hosting service accepting solutions in many languages. Find a problem from one of the extensive problemsets, write a solution in your favorite language and submit it. Problems that can be found in this directory are both from [polish](http://www.pl.spoj.com) and [english](http://www.spoj.com) SPOJ.
-
-### License
-The MIT License (MIT)
