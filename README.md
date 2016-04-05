@@ -11,6 +11,8 @@ Polish Collegiate Programming Contest (AMPPZ) is the most important Polish team 
 
 ---
 ###### CodeForces
+http://codeforces.com/  
+Codeforces is a project joining people interested in and taking part in programming contests. On one hand, Codeforces is a social network dedicated to programming and programming contests. On the other hand, it is a platform where contests are held regularly, the participant's skills are reflected by their rating and the former contests can be used to prepare.
 
 ---
 ###### Deadline24
