@@ -1,4 +1,4 @@
-# Contests
+# Solutions
 Code snippets from various on/offline programming contests and online judge systems.  
 
 ### List of contests/problemsets
